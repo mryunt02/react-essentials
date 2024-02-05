@@ -6,4 +6,4 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <br />
 <h3 align="left">Go to react essentials page:</h3>
-<a href="https://mryunt02.github.io/react-essentials target="_blank"/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Chain_link_icon.png" alt="link" width="90" height="40"/></a>
+<a href="https://mryunt02.github.io/react-essentials"/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Chain_link_icon.png" alt="link" width="90" height="40"/></a>
